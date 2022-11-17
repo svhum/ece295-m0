@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [vreg.PcbDoc]
+   Generated File[vreg-RoundHoles.TXT]
+   Generated File[vreg-SlotHoles.TXT]
+   Generated File[vreg.LDP]
+   Generated File[vreg.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:16:03 PM On 2021-10-22

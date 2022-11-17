@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: vreg.PcbDoc   2021-10-22  3:16:02 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : vreg-RoundHoles.TXT
+ASCII SlotHoles File : vreg-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             6         PTH        2.93inch (74.35mm)
+T2      33mil (0.85mm)                                            Round             2         PTH        0.40inch (10.16mm)
+T3      35mil (0.9mm)                                             Round             15        PTH        4.05inch (102.76mm)
+T4      39mil (1mm)                                               Slot              3         PTH        1.15inch (29.16mm)
+T5      41mil (1.05mm)                                            Round             2         PTH        0.10inch (2.54mm)
+T6      43mil (1.1mm)                                             Round             5         PTH        0.92inch (23.35mm)
+T7      47mil (1.2mm)                                             Round             2         PTH        0.41inch (10.46mm)
+T8      51mil (1.3mm)                                             Round             2         PTH        0.54inch (13.77mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              37
+
+Total Processing Time (hh:mm:ss) : 00:00:00
